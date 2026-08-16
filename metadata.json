@@ -1,0 +1,6 @@
+{
+  "name": "QuickMark",
+  "description": "Cambridge MCQ past paper practice with instant marking and teacher dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

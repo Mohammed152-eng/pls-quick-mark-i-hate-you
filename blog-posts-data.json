@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "night-before-igcse-exam-tips",
+    "title": "The Night Before Your IGCSE Exam: What To Do and What Not To Do",
+    "excerpt": "The twelve hours before your exam matter more than most students realise. Here is a practical, calm guide to your evening routine, what to avoid, and how to arrive ready.",
+    "author": "Ved Shivane",
+    "date": "2026-05-22",
+    "readTime": 7,
+    "content": "$e"
+  },
+  {
+    "slug": "use-reports-page-plan-next-week-revision",
+    "title": "How to Use Your QuickMark Reports Page to Plan Next Week's Revision",
+    "excerpt": "Stop guessing what to revise. Your QuickMark Reports page gives you a full breakdown of wrong answers, skipped questions, and weakest topics so you can plan next week with data instead of instinct.",
+    "author": "Ved Shivane",
+    "date": "2026-05-20",
+    "readTime": 10,
+    "content": "$f"
+  },
+  {
+    "slug": "review-mcq-mark-schemes-efficiently",
+    "title": "How to Review MCQ Mark Schemes Efficiently After a Past Paper",
+    "excerpt": "Turn mark schemes into actionable revision: log what matters, spot recurring errors, and choose your next study session with a concrete 20-minute workflow.",
+    "author": "Ved Shivane",
+    "date": "2026-04-17",
+    "readTime": 8,
+    "content": "$10"
+  },
+  {
+    "slug": "reduce-careless-mistakes-mcq-exams",
+    "title": "How to Reduce Careless Mistakes in MCQ Exams Without Over-Studying Theory",
+    "excerpt": "Learn how to separate careless errors from concept gaps, apply a 20-minute daily routine, and use practical checklists that reduce avoidable mark loss.",
+    "author": "Ved Shivane",
+    "date": "2026-04-16",
+    "readTime": 9,
+    "heroImage": "/blog-careless.png",
+    "content": "$11"
+  },
+  {
+    "slug": "error-logs-improve-mcq-scores",
+    "title": "Building an Error Log That Actually Improves Your MCQ Scores",
+    "excerpt": "Most error logs fail because they are too long and never reviewed. Use this minimal format, weekly cadence, and decision rules to turn mistakes into score gains.",
+    "author": "Ved Shivane",
+    "date": "2026-04-15",
+    "readTime": 8,
+    "content": "$12"
+  },
+  {
+    "slug": "last-30-days-igcse-revision-plan",
+    "title": "Your Final 30 Days: The IGCSE Revision Framework That Works",
+    "excerpt": "A realistic 30-day plan with phase-by-phase priorities, daily templates, and contingency rules so you can adapt without losing momentum.",
+    "author": "Ved Shivane",
+    "date": "2026-04-14",
+    "readTime": 11,
+    "content": "$13"
+  },
+  {
+    "slug": "14-day-comeback-plan-bad-mock-result",
+    "title": "The 14-Day Comeback Plan After a Bad Mock or Past Paper",
+    "excerpt": "A realistic two-week structure to recover from a poor result: diagnose mistakes, rebuild weak topics, and return to timed performance with adaptation rules for missed days.",
+    "author": "Ved Shivane",
+    "date": "2026-04-13",
+    "readTime": 9,
+    "content": "$14"
+  },
+  {
+    "slug": "final-2-weeks-paper-selection-strategy",
+    "title": "Which Past Papers to Pick in the Final 2 Weeks Before Exams",
+    "excerpt": "Use a clear decision framework to pick high-value papers in the final stretch, avoid common selection mistakes, and focus revision where it improves exam readiness fastest.",
+    "author": "Ved Shivane",
+    "date": "2026-04-12",
+    "readTime": 8,
+    "content": "$15"
+  },
+  {
+    "slug": "topicals-vs-full-papers-igcse",
+    "title": "Topicals vs Full Papers: A Decision Framework for IGCSE Success",
+    "excerpt": "Stop guessing your next revision move. Use this practical framework to choose between topical drills and full papers based on your current readiness.",
+    "author": "Ved Shivane",
+    "date": "2026-04-10",
+    "readTime": 10,
+    "content": "$16"
+  },
+  {
+    "slug": "how-we-built-quickmark",
+    "title": "How We Built QuickMark: A Technical Breakdown",
+    "excerpt": "A practical look at the architecture, tradeoffs, and engineering decisions behind QuickMark's interactive exam-practice platform.",
+    "author": "Ved Shivane",
+    "date": "2026-03-20",
+    "readTime": 9,
+    "heroImage": "/blog-image.jpg",
+    "content": "$17"
+  }
+]

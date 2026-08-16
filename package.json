@@ -1,0 +1,28 @@
+{
+  "name": "applet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fix-html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo no build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammed152-eng/quickmark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammed152-eng/quickmark/issues"
+  },
+  "homepage": "https://github.com/Mohammed152-eng/quickmark#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sharp": "^0.35.3"
+  },
+  "type": "module"
+}
